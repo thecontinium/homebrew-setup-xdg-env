@@ -3,7 +3,9 @@ class SetupXdgEnv< Formula
   url 'https://github.com/thecontinium/homebrew-setup-xdg-env.git'
   version '0.0.3'
 
-  skip_clean 'bin'
+  def install
+	    pefix.install Dir["config/*.plist"]
+  end
 
   def plist; <<~EOS
     <?xml version="1.0" encoding="UTF-8"?>
