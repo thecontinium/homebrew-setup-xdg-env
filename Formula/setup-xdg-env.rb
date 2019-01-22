@@ -1,7 +1,7 @@
 class SetupXdgEnv< Formula
-  homepage 'https://github.com/thecontinium/homebrew-setup-xdg-zsh-env/'
-  url 'https://github.com/thecontinium/homebrew-setup-xdg-zsh-env.git'
-  version '0.0.2'
+  homepage 'https://github.com/thecontinium/homebrew-setup-xdg-env/'
+  url 'https://github.com/thecontinium/homebrew-setup-xdg-env.git'
+  version '0.0.3'
 
   skip_clean 'bin'
 
