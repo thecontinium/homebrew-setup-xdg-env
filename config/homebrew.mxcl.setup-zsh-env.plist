@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>zsh.environment</string>
+    <string>homebrew.mxcl.setup-zsh-env</string>
     <key>ProgramArguments</key>
     <array>
         <string>sh</string>
