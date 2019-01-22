@@ -1,4 +1,4 @@
-class SetUpXdgZshEnv< Formula
+class SetupXdgZshEnv< Formula
   homepage 'https://github.com/thecontinium/homebrew-setup-xdg-zsh-env/'
   url 'https://github.com/thecontinium/homebrew-setup-xdg-zsh-env.git'
   version '0.0.1'
