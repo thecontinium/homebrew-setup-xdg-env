@@ -4,7 +4,7 @@ class SetupXdgEnv< Formula
   version '0.0.5'
 
   def install
-    pefix.install Dir["config/*.plist"]
+    prefix.install Dir["config/*.plist"]
   end
 
 end
