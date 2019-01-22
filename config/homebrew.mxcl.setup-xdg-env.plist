@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>xdg.environment</string>
+    <string>homebrew.mxcl.setup-xdg-env</string>
     <key>ProgramArguments</key>
     <array>
         <string>sh</string>
